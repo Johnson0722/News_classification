@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Authors: andybliu <andybliu@tencent.com>
-#          jidongzhang <jidongzhang@tencent.com>
-#          shuaijiang <shuaijiang@tencent.com>
+# Authors:  shuaijiang <shuaijiang@tencent.com>
 # Create: 2018/08/05
-#
 import argparse
 import codecs
 from collections import defaultdict
