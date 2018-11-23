@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Authors: andybliu <andybliu@tencent.com>
-# Create: 2018/07/27
-#
+
 
 import argparse
 import logging
